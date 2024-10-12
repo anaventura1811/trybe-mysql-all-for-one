@@ -5,7 +5,6 @@ Projeto desenvolvido como requisito parcial para conclusão do módulo de desenv
 # Sumário
 
 - [Habilidades](#habilidades)
-- [Desenvolvimento](#desenvolvimento)
 - [Data de entrega](#data-de-entrega)
 - [Como desenvolver](#como-desenvolver)
   - [Instruções para restaurar o banco de dados Northwind](#instruções-para-restaurar-o-banco-de-dados-northwind)
@@ -48,37 +47,11 @@ Nesse projeto, foram desenvolvidas as seguintes competências:
 
 ---
 
-## Desenvolvimento
-
-Temos, nesse projeto, uma série de desafios com diferentes níveis de complexidade que devem ser resolvidos cada um em seu arquivo próprio.
-
-1. Leia a pergunta e crie na raiz do projeto um arquivo chamado desafioN.sql, em que N é o número do desafio;
-
-2. O arquivo deve conter apenas o código SQL do desafio resolvido. **Não se esqueça de incluir o ponto e vírgula (";")** no final de suas queries e também de colocar o nome do **banco_de_dados.tabela_por_completo**, como no exemplo a seguir:
-
-```sql
-SELECT * FROM northwind.orders;
-```
-
-3. Faça isso até finalizar todos os desafios.
-
-4. Para entregar o seu projeto você deverá criar um _Pull Request_ neste repositório. Este _Pull Request_ deverá conter os arquivos `desafio1.sql`, `desafio2.sql` e assim por diante até o `desafio27.sql`, que conterão seu código `SQL` de cada desafio, respectivamente.
-
-5. **Não é necessário colocar** `USE northwind;` ou `SET SQL_SAFE_UPDATES = 0;` no início dos seus arquivos.
-
-### ⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️
-
-Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a monitoria.
-
-Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://course.betrybe.com/intro/git/) sempre que precisar!
-
----
-
 ## Data de entrega
 
 - Projeto individual.
 
-- Será 1 dia de projeto.
+- Foi 1 dia de projeto.
 
 - Data de entrega para avaliação final do projeto: `29/07/2021 - 14:00h`.
 
